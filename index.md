@@ -9,3 +9,5 @@ Percy Jackson ist der Sohn von Sally Jackson und der griechischen Gottheit Posei
 * größte Schwäche: Treue
 
 >Donuts. Always Donuts.
+
+<img src=https://vignette.wikia.nocookie.net/olympians/images/2/29/Percy_Jackson-RR.jpg/revision/latest?cb=20171209165744/>
