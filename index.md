@@ -1,6 +1,6 @@
 # Percy Jackson
 
-Percy Jackson ist der Sohn von Sally Jackson und der griechischen Gottheit Poseidon. Damit ist er eines der so genannten Halbblute, die die Götter im Kampf gegen den wiederauferstehenden Kronos unterstützen.Zudem wird Percy eine besondere Rolle zugedacht, da vor mehreren Jahren eine Prophezeiung ausgesprochen wurde, die sich auf ihn bezieht.
+Percy Jackson ist der Sohn von Sally Jackson und der griechischen Gottheit Poseidon. Damit ist er eines der so genannten Halbblute, die die Götter im Kampf gegen den wiederauferstehenden Kronos unterstützen. Zudem wird Percy eine besondere Rolle zugedacht, da vor mehreren Jahren eine Prophezeiung ausgesprochen wurde, die sich auf ihn bezieht.
 
 ## Merkmale
 * Poseidons Sohn
@@ -10,4 +10,4 @@ Percy Jackson ist der Sohn von Sally Jackson und der griechischen Gottheit Posei
 
 >Donuts. Always Donuts.
 
-<img src=https://vignette.wikia.nocookie.net/olympians/images/2/29/Percy_Jackson-RR.jpg/revision/latest?cb=20171209165744/>
+<img src="https://vignette.wikia.nocookie.net/olympians/images/2/29/Percy_Jackson-RR.jpg/revision/latest?cb=20171209165744"/>
