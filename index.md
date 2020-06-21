@@ -7,3 +7,5 @@ Percy Jackson ist der Sohn von Sally Jackson und der griechischen Gottheit Posei
 * führt das Schwert Springflut
 * leidet unter ADHS und Legasthenie
 * größte Schwäche: Treue
+
+>Donuts. Always Donuts.
